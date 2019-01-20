@@ -11,18 +11,18 @@ jobs:
   include:
     - stage: "Tests"                # naming the Tests stage
       name: "ESS Lint"            # names the first Tests stage job
-      script: esslint src/*
+      script: eslint src/*
     - script: csslint src/*   
       name: "CSS Lint"     # names the second Tests stage job
-      - script: ./__test__   
+    - script: ./src/components/ui/__test__   
       name: "Unit Test Execution"
-    - stage: deploy
-      name: "Deploy to Netlify"      
-      provider: script
-      script: netlify deploy -s $NETLIFY_SITE_ID -t $NETLIFY_ACCESS_TOKEN -p ./build
-      skip_cleanup: true
-      on:
-        branch: master
-before_deploy: 
-      - npm install netlify-cli -g
-      - npm run build
+#     - stage: deploy
+#       name: "Deploy to Netlify"      
+#       provider: script
+#       script: netlify deploy -s $NETLIFY_SITE_ID -t $NETLIFY_ACCESS_TOKEN -p ./build
+#       skip_cleanup: true
+#       on:
+#         branch: master
+# before_deploy: 
+#       - npm install netlify-cli -g
+#       - npm run build
