@@ -21,11 +21,11 @@ jobs:
       name: "Unit Test Execution"      
     - stage: Deploy
       name: "Install netlify"            
-      script: npm install netlify-cli -g
+      - script: npm install netlify-cli -g
       name: "Build Application"           
-      script: npm run build
+      - script: npm run build
       name: "Deploy to Netlify"
-      script: netlify deploy -s $NETLIFY_SITE_ID -t $NETLIFY_ACCESS_TOKEN -p ./build
+      - script: netlify deploy -s $NETLIFY_SITE_ID -t $NETLIFY_ACCESS_TOKEN -p ./build
 #       skip_cleanup: true
 #       on:
 #         branch: master
