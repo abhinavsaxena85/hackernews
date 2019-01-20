@@ -11,10 +11,10 @@ jobs:
   include:
     - stage: "Tests"                # naming the Tests stage
       name: "ESS Lint"            # names the first Tests stage job
-      script: eslint src/*
-    - script: csslint src/*   
+      script: eslint src/components/*
+    - script: csslint src/scss/*   
       name: "CSS Lint"     # names the second Tests stage job
-    - script: ./src/components/ui/__test__   
+    - script: npm test   
       name: "Unit Test Execution"
 #     - stage: deploy
 #       name: "Deploy to Netlify"      
