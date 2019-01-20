@@ -20,10 +20,10 @@ jobs:
     - script: npm test   
       name: "Unit Test Execution"      
     - stage: Deploy
-        name: "Prepare Deploy to Netlify"     
-        script: chmod +x ./publish.sh      
-      - script: ./publish.sh
-        name: "Publish"
+      name: "Prepare Deploy to Netlify"     
+      script: chmod +x ./publish.sh      
+    - script: ./publish.sh
+      name: "Publish"
     #   name: "Install netlify"            
     #   script: npm install netlify-cli -g                 
     # - script: npm run build
