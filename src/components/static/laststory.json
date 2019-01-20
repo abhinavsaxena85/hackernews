@@ -1,0 +1,773 @@
+{
+    "hits": [
+        {
+            "created_at": "2019-01-17T06:34:41.000Z",
+            "title": "MERN Stack Development and Consulting Services",
+            "url": "https://binaryinformatics.com/mern-stack-development/",
+            "author": "pplonski86",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547706881,
+            "_tags": [
+                "story",
+                "author_pplonski86",
+                "story_18928831"
+            ],
+            "objectID": "18928831",
+            "_highlightResult": {
+                "title": {
+                    "value": "MERN Stack Development and Consulting Services",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://binaryinformatics.com/mern-stack-development/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "pplonski86",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:33:47.000Z",
+            "title": "Understanding and Attacking Apple File System on iOS",
+            "url": "https://bxl1989.github.io/2019/01/17/apfs-remount.html",
+            "author": "walterbell",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547706827,
+            "_tags": [
+                "story",
+                "author_walterbell",
+                "story_18928826"
+            ],
+            "objectID": "18928826",
+            "_highlightResult": {
+                "title": {
+                    "value": "Understanding and Attacking Apple File System on iOS",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://bxl1989.github.io/2019/01/17/apfs-remount.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "walterbell",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:32:00.000Z",
+            "title": "North Korean hackers infiltrate Chile's ATM network after Skype job interview",
+            "url": "https://www.zdnet.com/article/north-korean-hackers-infiltrate-chiles-atm-network-after-skype-job-interview/",
+            "author": "J253",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547706720,
+            "_tags": [
+                "story",
+                "author_J253",
+                "story_18928819"
+            ],
+            "objectID": "18928819",
+            "_highlightResult": {
+                "title": {
+                    "value": "North Korean hackers infiltrate Chile's ATM network after Skype job interview",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.zdnet.com/article/north-korean-hackers-infiltrate-chiles-atm-network-after-skype-job-interview/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "J253",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:19:56.000Z",
+            "title": "Mathematical miracles of the Holy Quran",
+            "url": "https://themuslimvibe.com/faith-islam/in-theory/the-mathematical-miracles-of-the-holy-quran",
+            "author": "Zaheer",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547705996,
+            "_tags": [
+                "story",
+                "author_Zaheer",
+                "story_18928792"
+            ],
+            "objectID": "18928792",
+            "_highlightResult": {
+                "title": {
+                    "value": "Mathematical miracles of the Holy Quran",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://themuslimvibe.com/faith-islam/in-theory/the-mathematical-miracles-of-the-holy-quran",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "Zaheer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:19:56.000Z",
+            "title": "Ask HN: What do you use as a scratchpad for your notes?",
+            "url": null,
+            "author": "MediumD",
+            "points": 1,
+            "story_text": "To my fellow engineers, what do you use to jot down and organize your note\u0026#x2F;thoughts\u0026#x2F;learnings? I see a lot of people using Google Docs, Evernote, or Sublime, but I\u0026#x27;ve never liked any of them. Do any of these work for you all? Is there a better option out there?",
+            "comment_text": null,
+            "num_comments": 2,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547705996,
+            "_tags": [
+                "story",
+                "author_MediumD",
+                "story_18928791",
+                "ask_hn"
+            ],
+            "objectID": "18928791",
+            "_highlightResult": {
+                "title": {
+                    "value": "Ask HN: What do you use as a scratchpad for your notes?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "MediumD",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "To my fellow engineers, what do you use to jot down and organize your note/thoughts/learnings? I see a lot of people using Google Docs, Evernote, or Sublime, but I've never liked any of them. Do any of these work for you all? Is there a better option out there?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:17:04.000Z",
+            "title": "I ignore the design industry on purpose",
+            "url": "https://m.signalvnoise.com/why-i-ignore-the-design-industry-on-purpose/",
+            "author": "doppp",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547705824,
+            "_tags": [
+                "story",
+                "author_doppp",
+                "story_18928777"
+            ],
+            "objectID": "18928777",
+            "_highlightResult": {
+                "title": {
+                    "value": "I ignore the design industry on purpose",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://m.signalvnoise.com/why-i-ignore-the-design-industry-on-purpose/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "doppp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:16:54.000Z",
+            "title": "Removing migration barriers for Steelhead Trout",
+            "url": "https://thefisheriesblog.com/2019/01/13/removing-migration-barriers-for-steelhead-trout/",
+            "author": "sohkamyung",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547705814,
+            "_tags": [
+                "story",
+                "author_sohkamyung",
+                "story_18928775"
+            ],
+            "objectID": "18928775",
+            "_highlightResult": {
+                "title": {
+                    "value": "Removing migration barriers for Steelhead Trout",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://thefisheriesblog.com/2019/01/13/removing-migration-barriers-for-steelhead-trout/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "sohkamyung",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:13:42.000Z",
+            "title": "Completely open source admin dashboard on PH",
+            "url": "https://www.producthunt.com/posts/darkboard",
+            "author": "CreativeITteam",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547705622,
+            "_tags": [
+                "story",
+                "author_CreativeITteam",
+                "story_18928769"
+            ],
+            "objectID": "18928769",
+            "_highlightResult": {
+                "title": {
+                    "value": "Completely open source admin dashboard on PH",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.producthunt.com/posts/darkboard",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "CreativeITteam",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:09:10.000Z",
+            "title": "[pdf] Math Societies to US Lawmakers: This Is Why You Should Fund Basic Research",
+            "url": "https://www.ams.org/journals/notices/201901/rnoti-p102.pdf",
+            "author": "sohkamyung",
+            "points": 2,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547705350,
+            "_tags": [
+                "story",
+                "author_sohkamyung",
+                "story_18928752"
+            ],
+            "objectID": "18928752",
+            "_highlightResult": {
+                "title": {
+                    "value": "[pdf] Math Societies to US Lawmakers: This Is Why You Should Fund Basic Research",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.ams.org/journals/notices/201901/rnoti-p102.pdf",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "sohkamyung",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:09:03.000Z",
+            "title": "What Does Democracy Mean to People in Beijing? [YouTube Street Interviews]",
+            "url": "https://www.youtube.com/watch?v=nl59t---30g",
+            "author": "forkLding",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547705343,
+            "_tags": [
+                "story",
+                "author_forkLding",
+                "story_18928751"
+            ],
+            "objectID": "18928751",
+            "_highlightResult": {
+                "title": {
+                    "value": "What Does Democracy Mean to People in Beijing? [YouTube Street Interviews]",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.youtube.com/watch?v=nl59t---30g",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "forkLding",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:07:33.000Z",
+            "title": "West's unconscious bias against tech in Afrika",
+            "url": "https://www.iafrikan.com/2019/01/17/bias-against-tech-in-afrika/",
+            "author": "iafrikan",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547705253,
+            "_tags": [
+                "story",
+                "author_iafrikan",
+                "story_18928745"
+            ],
+            "objectID": "18928745",
+            "_highlightResult": {
+                "title": {
+                    "value": "West's unconscious bias against tech in Afrika",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.iafrikan.com/2019/01/17/bias-against-tech-in-afrika/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "iafrikan",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T06:00:49.000Z",
+            "title": "Memorisation Document LaTeX Template",
+            "url": "https://github.com/Some-T/MemorisationDocumentLaTeXTemplate",
+            "author": "SomeT",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547704849,
+            "_tags": [
+                "story",
+                "author_SomeT",
+                "story_18928721"
+            ],
+            "objectID": "18928721",
+            "_highlightResult": {
+                "title": {
+                    "value": "Memorisation Document LaTeX Template",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://github.com/Some-T/MemorisationDocumentLaTeXTemplate",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "SomeT",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T05:53:01.000Z",
+            "title": "Jewish publication the Forward ending 121-year print run",
+            "url": "https://nypost.com/2019/01/16/storied-jewish-publication-the-forward-ending-121-year-print-run/",
+            "author": "mudil",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547704381,
+            "_tags": [
+                "story",
+                "author_mudil",
+                "story_18928690"
+            ],
+            "objectID": "18928690",
+            "_highlightResult": {
+                "title": {
+                    "value": "Jewish publication the Forward ending 121-year print run",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://nypost.com/2019/01/16/storied-jewish-publication-the-forward-ending-121-year-print-run/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "mudil",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T05:50:41.000Z",
+            "title": "Minnow Server: fast and embeddable websocket ssl server for microcontrollers",
+            "url": "https://github.com/RealTimeLogic/MinnowServer",
+            "author": "SEJeff",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547704241,
+            "_tags": [
+                "story",
+                "author_SEJeff",
+                "story_18928683"
+            ],
+            "objectID": "18928683",
+            "_highlightResult": {
+                "title": {
+                    "value": "Minnow Server: fast and embeddable websocket ssl server for microcontrollers",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://github.com/RealTimeLogic/MinnowServer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "SEJeff",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T05:46:59.000Z",
+            "title": "Summary Notes of Don’t Make Me Think. A Common Sense Approach to Web Usability",
+            "url": "https://medium.com/@384924552/summary-of-dont-make-me-think-a-common-sense-approach-to-web-usability-466603b22d30",
+            "author": "wxyyxc1992",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547704019,
+            "_tags": [
+                "story",
+                "author_wxyyxc1992",
+                "story_18928666"
+            ],
+            "objectID": "18928666",
+            "_highlightResult": {
+                "title": {
+                    "value": "Summary Notes of Don’t Make Me Think. A Common Sense Approach to Web Usability",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://medium.com/@384924552/summary-of-dont-make-me-think-a-common-sense-approach-to-web-usability-466603b22d30",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "wxyyxc1992",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T05:46:56.000Z",
+            "title": "Old Sparky: Could Electricity Be Farming’s New Weed Killer",
+            "url": "https://www.greenbook.net/article/2019/01/14/old-sparky-could-electricity-be-farmings-new-weed-killer",
+            "author": "greenie_beans",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547704016,
+            "_tags": [
+                "story",
+                "author_greenie_beans",
+                "story_18928665"
+            ],
+            "objectID": "18928665",
+            "_highlightResult": {
+                "title": {
+                    "value": "Old Sparky: Could Electricity Be Farming’s New Weed Killer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.greenbook.net/article/2019/01/14/old-sparky-could-electricity-be-farmings-new-weed-killer",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "greenie_beans",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T05:44:51.000Z",
+            "title": "PickleDB: a lightweight and simple key-value store written in Rust",
+            "url": "https://github.com/seladb/pickledb-rs",
+            "author": "seladb",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547703891,
+            "_tags": [
+                "story",
+                "author_seladb",
+                "story_18928656"
+            ],
+            "objectID": "18928656",
+            "_highlightResult": {
+                "title": {
+                    "value": "PickleDB: a lightweight and simple key-value store written in Rust",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://github.com/seladb/pickledb-rs",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "seladb",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T05:26:23.000Z",
+            "title": "Blinkist.com audio downloader",
+            "url": "https://github.com/luckylittle/blinkist-m4a-downloader",
+            "author": "luckylittle",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547702783,
+            "_tags": [
+                "story",
+                "author_luckylittle",
+                "story_18928603"
+            ],
+            "objectID": "18928603",
+            "_highlightResult": {
+                "title": {
+                    "value": "Blinkist.com audio downloader",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://github.com/luckylittle/blinkist-m4a-downloader",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "luckylittle",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T05:21:25.000Z",
+            "title": "200 Million Indian Workers protest for two Days",
+            "url": "https://thewire.in/labour/bharat-bandh-central-trade-union-strike",
+            "author": "chupa-chups",
+            "points": 3,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 1,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547702485,
+            "_tags": [
+                "story",
+                "author_chupa-chups",
+                "story_18928582"
+            ],
+            "objectID": "18928582",
+            "_highlightResult": {
+                "title": {
+                    "value": "200 Million Indian Workers protest for two Days",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://thewire.in/labour/bharat-bandh-central-trade-union-strike",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "chupa-chups",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T05:21:16.000Z",
+            "title": "Weblium 2.0 – Turbo AI website building tool",
+            "url": "https://weblium.com",
+            "author": "sunasra",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547702476,
+            "_tags": [
+                "story",
+                "author_sunasra",
+                "story_18928581"
+            ],
+            "objectID": "18928581",
+            "_highlightResult": {
+                "title": {
+                    "value": "Weblium 2.0 – Turbo AI website building tool",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://weblium.com",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "sunasra",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ],
+    "nbHits": 1819893,
+    "page": 0,
+    "nbPages": 50,
+    "hitsPerPage": 20,
+    "processingTimeMS": 1,
+    "exhaustiveNbHits": false,
+    "query": "",
+    "params": "advancedSyntax=true\u0026analytics=false\u0026tags=story"
+}

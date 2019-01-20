@@ -1,0 +1,418 @@
+/* mobile device */
+@media only screen and (min-width : 300px) and (max-width : 750px) {
+  #hnmain {
+    width: 100%;
+  }
+
+  body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    -webkit-text-size-adjust: none;
+  }
+
+  td {
+    height: inherit !important;
+  }
+
+  .title,
+  .comment {
+    font-size: inherit;
+  }
+
+  table.comment-tree .comment a {
+    display: inline-block;
+    max-width: 200px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    vertical-align: top;
+  }
+
+  img[src='s.gif'][width='40'] {
+    width: 12px;
+  }
+
+  img[src='s.gif'][width='80'] {
+    width: 24px;
+  }
+
+  img[src='s.gif'][width='120'] {
+    width: 36px;
+  }
+
+  img[src='s.gif'][width='160'] {
+    width: 48px;
+  }
+
+  img[src='s.gif'][width='200'] {
+    width: 60px;
+  }
+
+  img[src='s.gif'][width='240'] {
+    width: 72px;
+  }
+
+  img[src='s.gif'][width='280'] {
+    width: 84px;
+  }
+
+  img[src='s.gif'][width='320'] {
+    width: 96px;
+  }
+
+  img[src='s.gif'][width='360'] {
+    width: 108px;
+  }
+
+  img[src='s.gif'][width='400'] {
+    width: 120px;
+  }
+
+  img[src='s.gif'][width='440'] {
+    width: 132px;
+  }
+
+  img[src='s.gif'][width='480'] {
+    width: 144px;
+  }
+
+  img[src='s.gif'][width='520'] {
+    width: 156px;
+  }
+
+  img[src='s.gif'][width='560'] {
+    width: 168px;
+  }
+
+  img[src='s.gif'][width='600'] {
+    width: 180px;
+  }
+
+  img[src='s.gif'][width='640'] {
+    width: 192px;
+  }
+
+  img[src='s.gif'][width='680'] {
+    width: 204px;
+  }
+
+  img[src='s.gif'][width='720'] {
+    width: 216px;
+  }
+
+  img[src='s.gif'][width='760'] {
+    width: 228px;
+  }
+
+  img[src='s.gif'][width='800'] {
+    width: 240px;
+  }
+
+  img[src='s.gif'][width='840'] {
+    width: 252px;
+  }
+
+  .title {
+    font-size: 11pt;
+    line-height: 14pt;
+  }
+
+  .subtext {
+    font-size: 9pt;
+  }
+
+  .itemlist {
+    padding-right: 5px;
+  }
+
+  input[type='text'],
+  input[type='number'],
+  textarea {
+    font-size: 16px;
+    width: 90%;
+  }
+}
+
+.comment {
+  max-width: 1215px;
+  overflow: auto
+}
+
+pre {
+  max-width: 900px;
+}
+
+@media only screen and (min-width : 300px) and (max-width : 389px) {
+  .comment {
+    max-width: 270px;
+    overflow: auto
+  }
+
+  pre {
+    max-width: 200px;
+  }
+
+  .text-area-width {
+    max-width: 200px;
+  }
+
+  .subtext {
+    display: block
+  }
+
+  .upvotes-count-small {
+    display: inline
+  }
+
+  .comment-count-inline {
+    display: inline
+  }
+
+  .upvotes-count-large {
+    display: none
+  }
+
+  .comments-count {
+    display: none;
+  }
+}
+
+@media only screen and (min-width : 390px) and (max-width : 509px) {
+  .comment {
+    max-width: 350px;
+    overflow: auto
+  }
+
+  pre {
+    max-width: 260px;
+  }
+
+  .text-area-width {
+    max-width: 260px;
+  }
+
+  .subtext {
+    display: block
+  }
+
+  .upvotes-count-small {
+    display: inline
+  }
+
+  .comment-count-inline {
+    display: inline
+  }
+
+  .upvotes-count-large {
+    display: none
+  }
+
+  .comments-count {
+    display: none;
+  }
+}
+
+@media only screen and (min-width : 510px) and (max-width : 599px) {
+  .comment {
+    max-width: 460px;
+    overflow: auto
+  }
+
+  pre {
+    max-width: 340px;
+  }
+
+  .subtext {
+    display: block
+  }
+
+  .upvotes-count-small {
+    display: inline
+  }
+
+  .comment-count-inline {
+    display: inline
+  }
+
+  .upvotes-count-large {
+    display: none
+  }
+
+  .comments-count {
+    display: none;
+  }
+}
+
+@media only screen and (min-width : 600px) and (max-width : 689px) {
+  .comment {
+    max-width: 540px;
+    overflow: auto
+  }
+
+  pre {
+    max-width: 400px;
+  }
+
+  .subtext {
+    display: block
+  }
+
+  .upvotes-count-small {
+    display: inline
+  }
+
+  .comment-count-inline {
+    display: inline
+  }
+
+  .upvotes-count-large {
+    display: none
+  }
+
+  .comments-count {
+    display: none;
+  }
+}
+
+@media only screen and (min-width : 690px) and (max-width : 809px) {
+  .comment {
+    max-width: 620px;
+    overflow: auto
+  }
+
+  pre {
+    max-width: 460px;
+  }
+
+  .subtext {
+    display: block
+  }
+
+  .upvotes-count-small {
+    display: inline
+  }
+
+  .comment-count-inline {
+    display: inline
+  }
+
+  .upvotes-count-large {
+    display: none
+  }
+
+  .comments-count {
+    display: none;
+  }
+}
+
+@media only screen and (min-width : 810px) and (max-width : 899px) {
+  .comment {
+    max-width: 730px;
+    overflow: auto
+  }
+
+  pre {
+    max-width: 540px;
+  }
+
+  .subtext {
+    display: block
+  }
+
+  .upvotes-count-small {
+    display: inline
+  }
+
+  .comment-count-inline {
+    display: inline
+  }
+
+  .upvotes-count-large {
+    display: none
+  }
+
+  .comments-count {
+    display: none;
+  }
+}
+
+@media only screen and (min-width : 900px) and (max-width : 1079px) {
+  .comment {
+    max-width: 810px;
+    overflow: auto
+  }
+
+  pre {
+    max-width: 600px;
+  }
+
+  .subtext {
+    display: block
+  }
+
+  .upvotes-count-small {
+    display: none
+  }
+
+  .comment-count-inline {
+    // display: none
+  }
+}
+
+@media only screen and (min-width : 1080px) and (max-width : 1169px) {
+  .comment {
+    max-width: 970px;
+    overflow: auto
+  }
+
+  pre {
+    max-width: 720px;
+  }
+
+  .upvotes-count-small {
+    display: none
+  }
+
+  .comment-count-inline {
+    // display: none
+  }
+}
+
+@media only screen and (min-width : 1170px) and (max-width : 1259px) {
+  .comment {
+    max-width: 1050px;
+    overflow: auto
+  }
+
+  pre {
+    max-width: 780px;
+  }
+
+  .upvotes-count-small {
+    display: none
+  }
+
+  .comment-count-inline {
+    // display: none
+  }
+}
+
+@media only screen and (min-width : 1260px) and (max-width : 1349px) {
+  .comment {
+    max-width: 1130px;
+    overflow: auto
+  }
+
+  pre {
+    max-width: 840px;
+  }
+
+  .upvotes-count-small {
+    display: none
+  }
+
+  .comment-count-inline {
+    // display: none
+  }
+}
