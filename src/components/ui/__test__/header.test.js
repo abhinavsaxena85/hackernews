@@ -1,6 +1,6 @@
 
 import React from "react";
-import { shallow, spyOn } from "enzyme";
+import { shallow } from "enzyme";
 import Header from "../header";
 
 describe("Comment test suite", () => {
@@ -37,7 +37,7 @@ describe("Comment test suite", () => {
 
   it("<Header/> should change the state of class", () => {
     renderShallow();
-    let instance = wrapper.instance()
+    let instance = wrapper.instance();
     spyOn(instance, 'linkHighlight').and.callThrough();
     instance.linkHighlight('new');
     expect(instance.state.selectedTab).toBe('new');

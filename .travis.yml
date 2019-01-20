@@ -11,9 +11,9 @@ jobs:
   include:
     - stage: "Tests"                # naming the Tests stage
       name: "ESS Lint"            # names the first Tests stage job
-      script: eslint src/components/**
-    - script: csslint src/scss/**  
-      name: "CSS Lint"     # names the second Tests stage job
+      script: eslint src/components/** --ignore-pattern '/src/components/ui/__test__/*'
+    - script: sass-lint 'src/**/*.scss' -v -q  
+      name: "SASS Lint"     # names the second Tests stage job
     - script: npm test   
       name: "Unit Test Execution"
 #     - stage: deploy
