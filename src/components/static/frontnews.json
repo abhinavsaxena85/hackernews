@@ -1,0 +1,792 @@
+{
+    "hits": [
+        {
+            "created_at": "2019-01-16T22:39:15.000Z",
+            "title": "John C. Bogle, Founder of Vanguard Group, Has Died",
+            "url": "https://www.wsj.com/articles/john-c-bogle-founder-of-vanguard-group-dies-11547677745",
+            "author": "gdubs",
+            "points": 809,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 145,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547678355,
+            "_tags": [
+                "story",
+                "author_gdubs",
+                "story_18926225",
+                "front_page"
+            ],
+            "objectID": "18926225",
+            "_highlightResult": {
+                "title": {
+                    "value": "John C. Bogle, Founder of Vanguard Group, Has Died",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.wsj.com/articles/john-c-bogle-founder-of-vanguard-group-dies-11547677745",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "gdubs",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-15T16:27:32.000Z",
+            "title": "Elsevier journal editors resign, start rival open-access journal",
+            "url": "https://www.insidehighered.com/news/2019/01/14/elsevier-journal-editors-resign-start-rival-open-access-journal",
+            "author": "dankohn1",
+            "points": 806,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 106,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547569652,
+            "_tags": [
+                "story",
+                "author_dankohn1",
+                "story_18912321",
+                "front_page"
+            ],
+            "objectID": "18912321",
+            "_highlightResult": {
+                "title": {
+                    "value": "Elsevier journal editors resign, start rival open-access journal",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.insidehighered.com/news/2019/01/14/elsevier-journal-editors-resign-start-rival-open-access-journal",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "dankohn1",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T12:00:48.000Z",
+            "title": "After GDPR, The New York Times cut off ad exchanges and kept growing ad revenue",
+            "url": "https://digiday.com/media/new-york-times-gdpr-cut-off-ad-exchanges-europe-ad-revenue/",
+            "author": "chrisxcross",
+            "points": 525,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 405,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547640048,
+            "_tags": [
+                "story",
+                "author_chrisxcross",
+                "story_18920079",
+                "front_page"
+            ],
+            "objectID": "18920079",
+            "_highlightResult": {
+                "title": {
+                    "value": "After GDPR, The New York Times cut off ad exchanges and kept growing ad revenue",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://digiday.com/media/new-york-times-gdpr-cut-off-ad-exchanges-europe-ad-revenue/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "chrisxcross",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T15:10:30.000Z",
+            "title": "The Route of a Text Message",
+            "url": "https://scottbot.net/the-route-of-a-text-message/",
+            "author": "ericlott",
+            "points": 444,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 53,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547651430,
+            "_tags": [
+                "story",
+                "author_ericlott",
+                "story_18921434",
+                "front_page"
+            ],
+            "objectID": "18921434",
+            "_highlightResult": {
+                "title": {
+                    "value": "The Route of a Text Message",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://scottbot.net/the-route-of-a-text-message/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "ericlott",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T13:57:06.000Z",
+            "title": "DOJ: Hackers broke into an SEC database and made millions from inside info",
+            "url": "https://www.cnbc.com/2019/01/15/international-stock-trading-scheme-hacked-into-sec-database-justice-dept-says.html",
+            "author": "djoldman",
+            "points": 395,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 147,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547647026,
+            "_tags": [
+                "story",
+                "author_djoldman",
+                "story_18920829",
+                "front_page"
+            ],
+            "objectID": "18920829",
+            "_highlightResult": {
+                "title": {
+                    "value": "DOJ: Hackers broke into an SEC database and made millions from inside info",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.cnbc.com/2019/01/15/international-stock-trading-scheme-hacked-into-sec-database-justice-dept-says.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "djoldman",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T21:16:27.000Z",
+            "title": "Networking on AWS",
+            "url": "https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws",
+            "author": "petercooper",
+            "points": 340,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 68,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547673387,
+            "_tags": [
+                "story",
+                "author_petercooper",
+                "story_18925350",
+                "front_page"
+            ],
+            "objectID": "18925350",
+            "_highlightResult": {
+                "title": {
+                    "value": "Networking on AWS",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "petercooper",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T22:44:22.000Z",
+            "title": "How to Find Hidden Cameras and Spy Gear Like a Professional",
+            "url": "https://www.senteltechsecurity.com/blog/post/how-to-find-hidden-cameras/",
+            "author": "loteck",
+            "points": 251,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 68,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547678662,
+            "_tags": [
+                "story",
+                "author_loteck",
+                "story_18926264",
+                "front_page"
+            ],
+            "objectID": "18926264",
+            "_highlightResult": {
+                "title": {
+                    "value": "How to Find Hidden Cameras and Spy Gear Like a Professional",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.senteltechsecurity.com/blog/post/how-to-find-hidden-cameras/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "loteck",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T17:20:59.000Z",
+            "title": "Cloud Functions: Go 1.11 is now a supported language",
+            "url": "https://cloud.google.com/blog/products/application-development/cloud-functions-go-1-11-is-now-a-supported-language",
+            "author": "yannikyeo",
+            "points": 213,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 84,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547659259,
+            "_tags": [
+                "story",
+                "author_yannikyeo",
+                "story_18922696",
+                "front_page"
+            ],
+            "objectID": "18922696",
+            "_highlightResult": {
+                "title": {
+                    "value": "Cloud Functions: Go 1.11 is now a supported language",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://cloud.google.com/blog/products/application-development/cloud-functions-go-1-11-is-now-a-supported-language",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "yannikyeo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T01:58:23.000Z",
+            "title": "Mastercard will stop free trials from automatically billing you once it's over",
+            "url": "https://www.theverge.com/2019/1/16/18185468/mastercard-free-trials-stop-automatic-billing-new-policy-rule",
+            "author": "hbcondo714",
+            "points": 206,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 87,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547690303,
+            "_tags": [
+                "story",
+                "author_hbcondo714",
+                "story_18927650",
+                "front_page"
+            ],
+            "objectID": "18927650",
+            "_highlightResult": {
+                "title": {
+                    "value": "Mastercard will stop free trials from automatically billing you once it's over",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.theverge.com/2019/1/16/18185468/mastercard-free-trials-stop-automatic-billing-new-policy-rule",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "hbcondo714",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-17T02:14:10.000Z",
+            "title": "Microsoft pledges $500M for affordable housing in Seattle area",
+            "url": "https://www.nytimes.com/2019/01/16/technology/microsoft-affordable-housing-seattle.html",
+            "author": "pgodzin",
+            "points": 194,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 102,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547691250,
+            "_tags": [
+                "story",
+                "author_pgodzin",
+                "story_18927708",
+                "front_page"
+            ],
+            "objectID": "18927708",
+            "_highlightResult": {
+                "title": {
+                    "value": "Microsoft pledges $500M for affordable housing in Seattle area",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.nytimes.com/2019/01/16/technology/microsoft-affordable-housing-seattle.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "pgodzin",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T20:23:21.000Z",
+            "title": "Tech Choices I Regret at Spectrum",
+            "url": "https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/",
+            "author": "theBashShell",
+            "points": 194,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 79,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547670201,
+            "_tags": [
+                "story",
+                "author_theBashShell",
+                "story_18924724",
+                "front_page"
+            ],
+            "objectID": "18924724",
+            "_highlightResult": {
+                "title": {
+                    "value": "Tech Choices I Regret at Spectrum",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "theBashShell",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2015-06-28T19:23:29.000Z",
+            "title": "U.S. Manufacturing costs are almost as low as China’s",
+            "url": "http://fortune.com/2015/06/26/fracking-manufacturing-costs/",
+            "author": "prostoalex",
+            "points": 191,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 108,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1435519409,
+            "_tags": [
+                "story",
+                "author_prostoalex",
+                "story_9794694",
+                "front_page"
+            ],
+            "objectID": "9794694",
+            "_highlightResult": {
+                "title": {
+                    "value": "U.S. Manufacturing costs are almost as low as China’s",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "http://fortune.com/2015/06/26/fracking-manufacturing-costs/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "prostoalex",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T23:04:29.000Z",
+            "title": "Ford: We're going to make F-Series all-electric",
+            "url": "https://www.freep.com/story/money/cars/2019/01/16/ford-f-150-electric-pickup-truck/2595515002/",
+            "author": "prostoalex",
+            "points": 152,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 202,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547679869,
+            "_tags": [
+                "story",
+                "author_prostoalex",
+                "story_18926454",
+                "front_page"
+            ],
+            "objectID": "18926454",
+            "_highlightResult": {
+                "title": {
+                    "value": "Ford: We're going to make F-Series all-electric",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.freep.com/story/money/cars/2019/01/16/ford-f-150-electric-pickup-truck/2595515002/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "prostoalex",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T20:40:37.000Z",
+            "title": "Zillow CEO: startups trying to disrupt real estate commissions will fail (2012)",
+            "url": "https://www.geekwire.com/2012/zillow-ceo-spencer-rascoff-startups-disrupt-real-estate-commissions-doomed-fail/",
+            "author": "gamechangr",
+            "points": 141,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 246,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547671237,
+            "_tags": [
+                "story",
+                "author_gamechangr",
+                "story_18924928",
+                "front_page"
+            ],
+            "objectID": "18924928",
+            "_highlightResult": {
+                "title": {
+                    "value": "Zillow CEO: startups trying to disrupt real estate commissions will fail (2012)",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.geekwire.com/2012/zillow-ceo-spencer-rascoff-startups-disrupt-real-estate-commissions-doomed-fail/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "gamechangr",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T15:50:48.000Z",
+            "title": "Illinois Bet on Video Gambling and Lost",
+            "url": "https://features.propublica.org/the-bad-bet/how-illinois-bet-on-video-gambling-and-lost/",
+            "author": "danso",
+            "points": 132,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 170,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547653848,
+            "_tags": [
+                "story",
+                "author_danso",
+                "story_18921827",
+                "front_page"
+            ],
+            "objectID": "18921827",
+            "_highlightResult": {
+                "title": {
+                    "value": "Illinois Bet on Video Gambling and Lost",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://features.propublica.org/the-bad-bet/how-illinois-bet-on-video-gambling-and-lost/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "danso",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T21:55:17.000Z",
+            "title": "The 773M Record “Collection #1” Data Breach",
+            "url": "https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/",
+            "author": "shritesh",
+            "points": 128,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 35,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547675717,
+            "_tags": [
+                "story",
+                "author_shritesh",
+                "story_18925818",
+                "front_page"
+            ],
+            "objectID": "18925818",
+            "_highlightResult": {
+                "title": {
+                    "value": "The 773M Record “Collection #1” Data Breach",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "shritesh",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T13:23:38.000Z",
+            "title": "Concept design for a post-LHC future circular collider at CERN",
+            "url": "https://home.cern/news/press-release/accelerators/international-collaboration-publishes-concept-design-post-lhc",
+            "author": "est31",
+            "points": 88,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 66,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547645018,
+            "_tags": [
+                "story",
+                "author_est31",
+                "story_18920584",
+                "front_page"
+            ],
+            "objectID": "18920584",
+            "_highlightResult": {
+                "title": {
+                    "value": "Concept design for a post-LHC future circular collider at CERN",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://home.cern/news/press-release/accelerators/international-collaboration-publishes-concept-design-post-lhc",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "est31",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T20:58:44.000Z",
+            "title": "Blockstream Satellite API: Pay with BTC via Lightning to Broadcast Data Globally",
+            "url": "https://blockstream.com/2019/01/16/satellite_api_beta_live/",
+            "author": "grubles",
+            "points": 77,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 28,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547672324,
+            "_tags": [
+                "story",
+                "author_grubles",
+                "story_18925136",
+                "front_page"
+            ],
+            "objectID": "18925136",
+            "_highlightResult": {
+                "title": {
+                    "value": "Blockstream Satellite API: Pay with BTC via Lightning to Broadcast Data Globally",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://blockstream.com/2019/01/16/satellite_api_beta_live/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "grubles",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T16:11:19.000Z",
+            "title": "More than you really wanted to know about patch",
+            "url": "http://lists.landley.net/pipermail/toybox-landley.net/2019-January/010049.html",
+            "author": "signa11",
+            "points": 76,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 5,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547655079,
+            "_tags": [
+                "story",
+                "author_signa11",
+                "story_18922030",
+                "front_page"
+            ],
+            "objectID": "18922030",
+            "_highlightResult": {
+                "title": {
+                    "value": "More than you really wanted to know about patch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "http://lists.landley.net/pipermail/toybox-landley.net/2019-January/010049.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "signa11",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-01-16T19:42:27.000Z",
+            "title": "YC Series A Program Investor Access",
+            "url": "https://blog.ycombinator.com/yc-series-a-program-investor-access/",
+            "author": "katm",
+            "points": 73,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 8,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1547667747,
+            "_tags": [
+                "story",
+                "author_katm",
+                "story_18924274",
+                "front_page"
+            ],
+            "objectID": "18924274",
+            "_highlightResult": {
+                "title": {
+                    "value": "YC Series A Program Investor Access",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://blog.ycombinator.com/yc-series-a-program-investor-access/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "katm",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ],
+    "nbHits": 49,
+    "page": 0,
+    "nbPages": 3,
+    "hitsPerPage": 20,
+    "processingTimeMS": 1,
+    "exhaustiveNbHits": true,
+    "query": "",
+    "params": "advancedSyntax=true\u0026analytics=false\u0026tags=front_page"
+}
