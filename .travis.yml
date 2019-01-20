@@ -3,23 +3,27 @@ node_js: node
 cache:
   directories:
     - node_modules
-before_deploy: 
-      - npm install netlify-cli -g
-      - npm run build
+# before_deploy: 
+#       - npm install netlify-cli -g
+#       - npm run build
 # script:
 #   - npm test
 # env:
 #   - CI=true
 jobs:  
   include:
-    - stage: "Tests"                # naming the Tests stage
-      name: "ESS Lint"            # names the first Tests stage job
+    - stage: "Tests"                
+      name: "ESS Lint"            
       script: eslint src/components/**/**
     - script: sass-lint 'src/**/*.scss' -v -q  
-      name: "SASS Lint"     # names the second Tests stage job
+      name: "SASS Lint"     
     - script: npm test   
-      name: "Unit Test Execution"
-    - stage: deploy
+      name: "Unit Test Execution"      
+    - stage: Deploy
+      name: "Install netlify"            
+      script: npm install netlify-cli -g
+      name: "Build Application"           
+      script: npm run build
       name: "Deploy to Netlify"
       script: netlify deploy -s $NETLIFY_SITE_ID -t $NETLIFY_ACCESS_TOKEN -p ./build
 #       skip_cleanup: true
