@@ -1,0 +1,31 @@
+language: node_js
+node_js: node
+cache:
+  directories:
+    - node_modules
+script:
+  - npm test
+env:
+  - CI=true
+jobs:  
+  include:
+    - stage: "Tests"                # naming the Tests stage
+      name: "ESS Lint"            # names the first Tests stage job
+      script: esslint src/*
+    - script: csslint src/*   
+      name: "CSS Lint"     # names the second Tests stage job
+      - script: ./__test__   
+      name: "Unit Test Execution"
+    - stage: deploy
+      name: "Deploy to Netlify"
+      script: ./deploy
+before_deploy:
+  - npm install netlify-cli -g
+  - npm run build
+
+deploy:
+  provider: script
+  script: netlify deploy -s $NETLIFY_SITE_ID -t $NETLIFY_ACCESS_TOKEN -p ./build
+  skip_cleanup: true
+  on:
+    branch: master
