@@ -1,6 +1,6 @@
 
 import React from "react";
-import { shallow } from "enzyme";
+import { shallow, spyOn } from "enzyme";
 import Header from "../header";
 
 describe("Comment test suite", () => {
@@ -53,7 +53,7 @@ describe("Comment test suite", () => {
     renderShallow();
     let instance = wrapper.instance()
     const arr = wrapper.find('Link')
-    wrapper.find('Link').at(1).simulate('click');
+    arr.at(1).simulate('click');
     expect(instance.state.selectedTab).toBe('top');
   });
   it("<Header/> click on Home Logo should chenge class to top", () => {
