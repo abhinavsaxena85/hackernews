@@ -3,6 +3,9 @@ node_js: node
 cache:
   directories:
     - node_modules
+before_deploy: 
+      - npm install netlify-cli -g
+      - npm run build
 # script:
 #   - npm test
 # env:
@@ -16,13 +19,9 @@ jobs:
       name: "SASS Lint"     # names the second Tests stage job
     - script: npm test   
       name: "Unit Test Execution"
-#     - stage: deploy
-#       name: "Deploy to Netlify"      
-#       provider: script
-#       script: netlify deploy -s $NETLIFY_SITE_ID -t $NETLIFY_ACCESS_TOKEN -p ./build
+    - stage: deploy
+      name: "Deploy to Netlify"
+      script: netlify deploy -s $NETLIFY_SITE_ID -t $NETLIFY_ACCESS_TOKEN -p ./build
 #       skip_cleanup: true
 #       on:
 #         branch: master
-# before_deploy: 
-#       - npm install netlify-cli -g
-#       - npm run build
