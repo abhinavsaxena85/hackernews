@@ -1,6 +1,6 @@
 import React from "react";
 import { shallow } from "enzyme";
-import Comment from "../comment";
+import Comment from "../components/ui/comment";
 
 describe("Comment test suite", () => {
   let wrapper;

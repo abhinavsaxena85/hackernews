@@ -1,6 +1,6 @@
 import React from "react";
 import { shallow } from "enzyme";
-import {NewsRow} from "../newsrow.jsx";
+import {NewsRow} from "../components/ui/newsrow.jsx";
 
 describe("NewsRoo test suite", () => {
   let wrapper;
